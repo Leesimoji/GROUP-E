@@ -205,8 +205,7 @@ CREATE TABLE `MEDICINE` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
-
-
+,
 
 
 
